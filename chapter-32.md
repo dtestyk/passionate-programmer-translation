@@ -74,6 +74,11 @@ So, you've made your plan. It may not be as detailed as Chris's, but it's enough
 going to do with your day. When you get to work tomorrow, pull out the list and start on the first item. Work through
 the list until you go to lunch, and then pick up where you left off and try to finish the list.
 
+Итак, вы составили план. Возможно, он не настолько детальный, как у Криса, но его достаточно, чтобы ответить на вопрос
+о том, что вы будете делать в течение дня. Когда завтра вы придете на работу, достаньте свой список и начните с первого
+пункта. Работайте по этому плану до ланча, а после него продолжайте работу с того места, где вы остановились и
+постарайтесь завершить список.
+
 As you complete each item on the list, mark it DONE. Use capital letters. Say the word, *done*. Be happy. At the end
 of the day, look at yor list of DONE stuff and feel like you've accomplished something. Not only did you know what
 you were going to do today, but now you know what you've *done*.
