@@ -83,6 +83,10 @@ As you complete each item on the list, mark it DONE. Use capital letters. Say th
 of the day, look at yor list of DONE stuff and feel like you've accomplished something. Not only did you know what
 you were going to do today, but now you know what you've *done*.
 
+Каждый выполненный пункт списка отмечайте словом СДЕЛАНО. Пишите заглавными буквами. Произносите слово *сделано*.
+Радуйтесь. В конце дня просмотрите на список того, что было СДЕЛАНО и прочувствуйте, что вы что-то закончили.
+Вы не просто делали то, что собирались сегодня делать, а теперь вы знаете, что вы *сделали*.
+
 If you didn't get everything done, don't worry about it. You knew you weren't going to be right about how much would
 fit in a day anyway. Just move the incomplete items from today (if they're still relevant) onto tomorrow's list, and
 start the process again. It's a stimulating process. It's a rhythmic. It allows you to divide your days and weeks
