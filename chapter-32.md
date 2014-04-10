@@ -94,6 +94,12 @@ into a series of small victories, each one propelling you to the next. You'll fi
 visibility into what you're accomplishing, but you'll actually get *more done* than if you weren't watching things so
 closely.
 
+Не беспокойтесь, если вы сделали не все. В любом случае вы могли не знать, сколько успеете за день. Просто перепишите
+незаконченные дела в завтрашний список и начинайте заново. Это стимулирующий процесс. Он циклический. Это позволяет
+разделить ваши дни на серии маленьких побед, каждая из которых толкает вас к следующей. Вы обнаружите, что этот
+процесс не только позволяет отслеживать законченные дела, но еще вы будете *больше успевать*, чем если бы вы не
+наблюдали за выполнением так пристально.
+
 Having established a rhythm of plan and attack, you are already to start thinking in terms of weeks and even months.
 Of course, the larger the time span you're planning for, the higher level your plan should get. Think of week and day
 plans as being tactical battle plans, with thirty-, sixty-, and ninety-day plans focusing on more strategic goals that
