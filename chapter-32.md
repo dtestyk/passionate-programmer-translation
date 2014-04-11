@@ -105,6 +105,11 @@ Of course, the larger the time span you're planning for, the higher level your p
 plans as being tactical battle plans, with thirty-, sixty-, and ninety-day plans focusing on more strategic goals that
 you want to accomplish.
 
+Когда установится ритм плана и нападения, вы сможете начать думать в терминах недель и даже месяцев. Конечно,
+чем больше промежуток времени, который вы планируете, тем более высокоуровневый план у вас получится. Думайте
+о планах на неделю и день как о тактических боевых планах, а в планах на 30, 60 и 90 дней обращайте внимание на
+более стратегические цели, которых вы хотите достич.
+
 The very act of thinking about what you want to have accomplished in ninety days is something unnatural for software
 soldiers on the field. We are tactical people. Forcing yourself to imagine an end state for your system, your team's
 processes, or your career after ninety days will cause things to surface that you never expected. The view from above
