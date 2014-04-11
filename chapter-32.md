@@ -117,11 +117,24 @@ the field shows us very different things than the view from the ground. It will 
 it. Like all good skills, it gets easier with practice, and the benefits will be visible to both you and those who work
 with you (even if they don't know that you are doing it).
 
+Сам факт обдумывания того, чего вы хотите достичь за девяносто дней - это что-то неестественое для солдат ПО на поле
+боя. Мы тактические люди. Заставляя себя представить состояние вашей системы, или процессы вашей команды, или вашу карьеру
+через девяносто дней, вы можете получить неожиданные результаты. Взгляд на поле боя со стороны может очень отличаться от
+того, что мы видим с земли. Сначала будет сложно, но придерживайтесь его. Как и со всеми хорошими навыками, с практикой
+становится легче, и преимущества будут видны и вам, и тем, кто с вами работает (даже если они не знают, что вы
+это делаете).
+
 You should start communicating the plans to your management. The best time to start communicating the plans is after
 you have executed at least one cycle of the plan. And - this is an important point - start doing it before they ask you
 to do it. No manager in his or her right mind would be unhappy to receive a *succinct* weekly e-mail from an employee
 starting what was accomplished in the past week and what they plan to do in the next. Receiving this kind of regular
 message unsolicited is a manager's dream.
+
+Вам следует начать делиться планами с вашими менеджерами. Самое лучше время начать делиться планами - после того, как
+вы закончите хотя бы один цикл вашего плана. И - это важно - начать делать это до того, как вас попросят это делать.
+Ни один менеджер в здравом уме не будет недоволен получением *краткого* еженедельного сообщения от работника, в котором
+говорится о том, что было сделано за последнюю неделю и что планируется сделать на этой неделе. Регулярное получение такого
+сообщения - мечта каждого менеджера.
 
 Start by communicating week by week. When you've gotten comfortable with this process, start working in your thirty-,
 sixty-, and ninety-day plans. On the longer views, stick to high-level, impactful progress you plan to make on projects
