@@ -142,6 +142,12 @@ or systems you maintain. Always state these long-term plans as proposals to your
 time, these anticipation attempts will require less tweaking from your managers as you learn which items usually go
 unedited and which are the subject of more thrashing.
 
+Начните делиться планами неделя за неделей. Когда этот процесс станет удобным для вас, начните работать над
+шестидесяти- и девяностодневными планами. On the longer views, stick to high-level, impactful progress you plan to
+make on projects or systems you maintain. Всегда позиционируйте свои долгосрочные планы как предложения к
+менеджеру и просите у них отзывов. Over time, these anticipation attempts will require less tweaking from your
+managers as you learn which items usually go unedited and which are the subject of more thrashing.
+
 The most critical factor to keep in mind with everything that goes onto a plan is that it should always be accounted
 for later. Every item must be either visibly completed, delayed, removed, or replaced. No items should go unaccounted
 for. If items show up on a plan and are never mentioned again, people will stop trusting your  plans, and the plans
