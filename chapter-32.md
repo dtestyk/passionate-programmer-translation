@@ -155,8 +155,17 @@ and you will counteract the effectiveness of planning. Even if the outcome is *b
 We all make mistakes. The way to differenciate yourself is to address your mistakes or inabilities publicly and ask
 for help solving them.
 
+Самый важный фактор в планировании - это то, что нужно иметь в виду, что по всем пунктом позже нужен отчет. Каждый пункт
+должен быть закончен, отложен, удален или заменен. Ни один пункт не должен быть неучтенным. Если пункты будут представлены
+в вашем плане и никогда больше не будут упомянуты, то люди не будут доверять вашему плану и ваш план будет
+неэффективен. Даже если результаты *плохие*, то вы должны упомянуть о них. Все мы делаем ошибки.
+Способ изменить себя - это публично расказать о своих ошибках или неудачах и попросить помощи в решении этих
+проблем.
+
 Consistently tracing tasks on a plan will create the desereved impression that no important work is getting lost in
 the mix.
+
+Последовательное отслеживание задач создаст уверенность, что ни одно важное задание не потеряется в неразберихе.
 
 Get this process going, and suddenly in the eyes of your management you have exposed your strategic side. Creating and
 executing plans shows that you are not just a robot typing code, but you are a *leader*. It's this kind of independent
