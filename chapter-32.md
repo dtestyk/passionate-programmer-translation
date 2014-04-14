@@ -171,6 +171,10 @@ Get this process going, and suddenly in the eyes of your management you have exp
 executing plans shows that you are not just a robot typing code, but you are a *leader*. It's this kind of independent
 productivity that companies need as they reduce overhead.
 
+Начните делать это и ваши менеджеры поймут, что вы можете мыслить стртегически. Создание и выполнение плана показывает,
+что вы не просто робот, который пишет код, а что вы еще и *лидер*. Это своего рода независимая производительность,
+которая нужна компаниям для сокращения накладных расходов.
+
 A final benefit of communicating in terms of plans is that your commitments become more credible. If you say what
 you're going to do and then you do it and show that it's done, you develop a reputation for being a *doer*. With
 credibility comes influence. Imagine you want to introduce a new process, such as an agile development practice,[14]
