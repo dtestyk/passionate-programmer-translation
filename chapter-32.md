@@ -83,6 +83,10 @@ As you complete each item on the list, mark it DONE. Use capital letters. Say th
 of the day, look at yor list of DONE stuff and feel like you've accomplished something. Not only did you know what
 you were going to do today, but now you know what you've *done*.
 
+Каждый выполненный пункт списка отмечайте словом СДЕЛАНО. Пишите заглавными буквами. Произносите слово *сделано*.
+Радуйтесь. В конце дня просмотрите на список того, что было СДЕЛАНО и прочувствуйте, что вы что-то закончили.
+Вы не просто делали то, что собирались сегодня делать, а теперь вы знаете, что вы *сделали*.
+
 If you didn't get everything done, don't worry about it. You knew you weren't going to be right about how much would
 fit in a day anyway. Just move the incomplete items from today (if they're still relevant) onto tomorrow's list, and
 start the process again. It's a stimulating process. It's a rhythmic. It allows you to divide your days and weeks
@@ -90,10 +94,21 @@ into a series of small victories, each one propelling you to the next. You'll fi
 visibility into what you're accomplishing, but you'll actually get *more done* than if you weren't watching things so
 closely.
 
+Не беспокойтесь, если вы сделали не все. В любом случае вы могли не знать, сколько успеете за день. Просто перепишите
+незаконченные дела в завтрашний список и начинайте заново. Это стимулирующий процесс. Он циклический. Это позволяет
+разделить ваши дни на серии маленьких побед, каждая из которых толкает вас к следующей. Вы обнаружите, что этот
+процесс не только позволяет отслеживать законченные дела, но еще вы будете *больше успевать*, чем если бы вы не
+наблюдали за выполнением так пристально.
+
 Having established a rhythm of plan and attack, you are already to start thinking in terms of weeks and even months.
 Of course, the larger the time span you're planning for, the higher level your plan should get. Think of week and day
 plans as being tactical battle plans, with thirty-, sixty-, and ninety-day plans focusing on more strategic goals that
 you want to accomplish.
+
+Когда установится ритм плана и нападения, вы сможете начать думать в терминах недель и даже месяцев. Конечно,
+чем больше промежуток времени, который вы планируете, тем более высокоуровневый план у вас получится. Думайте
+о планах на неделю и день как о тактических боевых планах, а в планах на 30, 60 и 90 дней обращайте внимание на
+более стратегические цели, которых вы хотите достич.
 
 The very act of thinking about what you want to have accomplished in ninety days is something unnatural for software
 soldiers on the field. We are tactical people. Forcing yourself to imagine an end state for your system, your team's
@@ -102,17 +117,36 @@ the field shows us very different things than the view from the ground. It will 
 it. Like all good skills, it gets easier with practice, and the benefits will be visible to both you and those who work
 with you (even if they don't know that you are doing it).
 
+Сам факт обдумывания того, чего вы хотите достичь за девяносто дней - это что-то неестественое для солдат ПО на поле
+боя. Мы тактические люди. Заставляя себя представить состояние вашей системы, или процессы вашей команды, или вашу карьеру
+через девяносто дней, вы можете получить неожиданные результаты. Взгляд на поле боя со стороны может очень отличаться от
+того, что мы видим с земли. Сначала будет сложно, но придерживайтесь его. Как и со всеми хорошими навыками, с практикой
+становится легче, и преимущества будут видны и вам, и тем, кто с вами работает (даже если они не знают, что вы
+это делаете).
+
 You should start communicating the plans to your management. The best time to start communicating the plans is after
 you have executed at least one cycle of the plan. And - this is an important point - start doing it before they ask you
 to do it. No manager in his or her right mind would be unhappy to receive a *succinct* weekly e-mail from an employee
 starting what was accomplished in the past week and what they plan to do in the next. Receiving this kind of regular
 message unsolicited is a manager's dream.
 
+Вам следует начать делиться планами с вашими менеджерами. Самое лучше время начать делиться планами - после того, как
+вы закончите хотя бы один цикл вашего плана. И - это важно - начать делать это до того, как вас попросят это делать.
+Ни один менеджер в здравом уме не будет недоволен получением *краткого* еженедельного сообщения от работника о том,
+что было сделано за последнюю неделю и что планируется сделать на этой неделе. Регулярное получение такого
+сообщения - мечта каждого менеджера.
+
 Start by communicating week by week. When you've gotten comfortable with this process, start working in your thirty-,
 sixty-, and ninety-day plans. On the longer views, stick to high-level, impactful progress you plan to make on projects
 or systems you maintain. Always state these long-term plans as proposals to your manager, and ask for feedback. Over
 time, these anticipation attempts will require less tweaking from your managers as you learn which items usually go
 unedited and which are the subject of more thrashing.
+
+Начните делиться планами неделя за неделей. Когда этот процесс станет удобным для вас, начните работать над
+шестидесяти- и девяностодневными планами. On the longer views, stick to high-level, impactful progress you plan to
+make on projects or systems you maintain. Всегда позиционируйте свои долгосрочные планы как предложения к
+менеджеру и просите у них отзывов. Over time, these anticipation attempts will require less tweaking from your
+managers as you learn which items usually go unedited and which are the subject of more thrashing.
 
 The most critical factor to keep in mind with everything that goes onto a plan is that it should always be accounted
 for later. Every item must be either visibly completed, delayed, removed, or replaced. No items should go unaccounted
@@ -121,12 +155,25 @@ and you will counteract the effectiveness of planning. Even if the outcome is *b
 We all make mistakes. The way to differenciate yourself is to address your mistakes or inabilities publicly and ask
 for help solving them.
 
+Самый важный фактор в планировании - это то, что нужно иметь в виду, что по всем пунктом позже нужен отчет. Каждый пункт
+должен быть закончен, отложен, удален или заменен. Ни один пункт не должен быть неучтенным. Если пункты будут представлены
+в вашем плане и никогда больше не будут упомянуты, то люди не будут доверять вашему плану и ваш план будет
+неэффективен. Даже если результаты *плохие*, то вы должны упомянуть о них. Все мы делаем ошибки.
+Способ изменить себя - это публично расказать о своих ошибках или неудачах и попросить помощи в решении этих
+проблем.
+
 Consistently tracing tasks on a plan will create the desereved impression that no important work is getting lost in
 the mix.
+
+Последовательное отслеживание задач создаст уверенность, что ни одно важное задание не потеряется в неразберихе.
 
 Get this process going, and suddenly in the eyes of your management you have exposed your strategic side. Creating and
 executing plans shows that you are not just a robot typing code, but you are a *leader*. It's this kind of independent
 productivity that companies need as they reduce overhead.
+
+Начните делать это и ваши менеджеры поймут, что вы можете мыслить стртегически. Создание и выполнение плана показывает,
+что вы не просто робот, который пишет код, а что вы еще и *лидер*. Это своего рода независимая производительность,
+которая нужна компаниям для сокращения накладных расходов.
 
 A final benefit of communicating in terms of plans is that your commitments become more credible. If you say what
 you're going to do and then you do it and show that it's done, you develop a reputation for being a *doer*. With
