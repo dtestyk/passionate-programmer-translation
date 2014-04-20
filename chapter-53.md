@@ -52,6 +52,6 @@ Reviewer Sammy Larbi suggests another alternative to going independent. If you c
 
 
 
-[^17] If you happen to be looking for one, try http://toothpastefordinner.com. I’ve giggled away many an hour there.
+<!-- [^17]: If you happen to be looking for one, try http://toothpastefordinner.com. I’ve giggled away many an hour there. -->
 
-[^17] Если вдруг тебя эта зараза обошла стороной, то загляни [сюда](http://developer-life.com/). Я мно-о-ого часов там проржал.
+[^17]: Если вдруг тебя эта зараза обошла стороной, то загляни [сюда](http://developer-life.com/). Я мно-о-ого часов там проржал.
