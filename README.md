@@ -12,21 +12,14 @@ passionate-programmer-translation
 нас поощрить и после выпуска официального перевода подарить каждому участнику
 краудсорсинга по напечатанной книжке :).**
 
-Для тех, кто хочет помочь, но не знает как: см. [README-contributing.md](README-contributing.md)
-
-## Планы:
-
-- @rb2: работаю над переводом главы 15 (коррекция перевода, попутная вычитка).
-
-  Кто будет присоединяться - линкуйте коммиты с задачей #43 (указывайте в коммитах
-  строчку "re #43 (ch15) ...")
+Для тех, кто хочет помочь, но не знает как: см. [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Требуется:
 
 - Заходите в <a href="https://github.com/Flar49/passionate-programmer-translation/issues?milestone=1&state=open">issues</a>, выбирайте задачу по душе и за дело!
 
 - Вычитка всего невычитанного и внесение правок, в т.ч. в уже опубликованные статьи.
-    См. также файл `README-contributing.md` и раздел
+    См. также файл `CONTRIBUTING.md` и раздел
     [Issues](https://github.com/Flar49/passionate-programmer-translation/issues)
 
 - Перевод истории после 18 главы.
