@@ -1,4 +1,4 @@
-- @akalyaev коррекция
+- @akalyaev перевод, коррекция
 
 #### Tip 32: Say It, Do It, Show It!
 #### Глава 32: Говори, делай, показывай!
@@ -182,6 +182,17 @@ you're going to do and then you do it and show that it's done, you develop a rep
 credibility comes influence. Imagine you want to introduce a new process, such as an agile development practice,[14]
 into an organization or you want to bring in a new technology. With the proven ability to make and meet commitments,
 you'll be granted more leeway to try new things.
+
+Последнее преимущество взаимодействия посредством планов заключается в
+том, что вы заслужите доверие. Если вы говорите что вы
+собираетесь сделать, затем делаете это и показываете результат, вы
+заслужите репутацию *хорошего исполнителя*. С доверием приходит влияние.
+Допустим вы хотите привнести новый практику, такую как Гибкая
+разработка,[14] в вашу организацию, или хотите внедрить новую
+технологию. После того как вы доказали, что способны создавать план и
+следовать ему, вам будет предоставлено больше свободы действий, чтобы
+попробовать новые вещи.
+
 
 In our Bangalore software center, we had a team that had been working night shifts for more than a year. Of the seven
 members on the team, two were always on the night shift. They rotated weekly, so every third or fourth week, each team
