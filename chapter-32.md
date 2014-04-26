@@ -200,15 +200,40 @@ member would switch to a 7 p.m. to 3 a.m. schedule. The team was getting frustra
 almost constantly felt jet-lagged. But, the team was playing a critical support role, and the team's U.S.-based
 internal customers were convinced they couldn't get by without live real-time help from the group in Bangalore.
 
+В нашем офисе в Бангалоре, у нас есть команда, которая работала по ночам больше
+года. Они менялись каждую неделю, так что любой сотрудник каждую третью или
+четвертую неделю работал с 7 вечера до 3 утра. Члены команды были растеряны и
+истощены, говоря, что почти всегда чувствовали себя как после долгого перелета.
+Но они играли ключевую роль в поддержке, и наши клиенты из США были убеждены в
+том, что им просто необходима поддержка в реальном времени от группы из
+Бангалора.
+
+
 So, the team put together a plan of attack. They looked at their various support processes and accociated measurements
 and crafted a plan to both switch back to a single-day shift *and* to make significant improvements in their customer
 experience, simulaneously. As acting operations leader of the software center, I helped them fine-tune their plan and
 was present (as moral support) fro the formal proposal they made to their manager in the United States.
 
+Так что команда выработала план наступления. Они посмотрели на свои различные
+процессы и соответствующие им средства измерения, и создали план по переходу на
+одну смену *и* улучшению пользовательского опыта, одновременно. Как действующий
+глава отдела разработки ПО, я помог им улучшить их план и присутствовал (в
+качестве моральной поддержки), когда они предложили его своему менеджеру из
+Америки.
+
+
 They knew this was going to be a touchy subject for their manager, who had to answer to his U.S.-based customers in
 person. There was naturally much trepidation among the team members as the meeting started. However, the team's manager
 was so impressed that he immediately and happily signed off on the proposal, and the team put its plan into action.
 Within weeks, the jet lag was over, and everyone was back on day shifts.
+
+Они знали, что это щекотливая тема для их менеджера, который был напрямую связан
+с клиентами из США. Когда началось совещание, в комнате буквально царило
+напряжение. Однако, менеджер был так впечатлён, что незамедлительно и, с радостью,
+подписал предложение, и команда привела план в действие. По прошествии
+нескольких недель, с ночной работой было покончено, и все вернулись к
+нормальному режиму.
+
 
 The solidity of their plan for how to not only deal with the change in work hours but how they were going to
 strategically improve the performance of their team inspired great confidence in the leaders and, eventually, their
@@ -216,12 +241,26 @@ customers. The team's manager used the plan when communicating the change with h
 through. Within months, the team was running at a new level of efficiency. They've since gained such credibility and
 confidence that they have taken more and more ownership and independence over the workings of theri team.
 
+То, что их план состоял не только в смене рабочих часов, но и в стратегическом
+улучшении производительности команды, вдохнуло огромную уверенность в их
+руководителей, и, в конечном счёте, в их клиентов. Менеджер команды использовал
+план при обсуждении изменений с клиентами. Затем команда реализовывало его. В
+течении нескольких месяцев команда достигла нового уровня эффективности. С тех
+времен они заслужили огромное доверие и уверенность, что позволило им стать
+более независимыми и ответственными (ownership _прим. пер._).
+
 The team used its plan as a concrete to a problem. They came to their manager not with complaints but with proposed
 solutions.
+
+Команда использовала свой план как конкретное решение проблемы. Они не пришли к
+своему менеджеру с жалобами, они пришли к нему с возможными решениями.
+
 
 Your leaders want you to have independence and ownership. Making, executing, and communicating plans will help you
 attain both.
 
+Ваши руководители хотят, чтобы вы были независимыми и ответственными. Создание,
+выполнение и общение с помощью планов помогут вам достичь этого.
 
 
 
