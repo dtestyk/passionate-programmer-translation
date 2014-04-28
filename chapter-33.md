@@ -1,8 +1,10 @@
+@SavinaMarina перевод
+
 <!--
 #### 33. Perceptions, Perschmeptions
 --!>
 
-
+33. Восприятия, Швосприятия 
 
 <!--
 It’s comfortable to play the idealist and pretend you don’t care what other 
@@ -11,7 +13,10 @@ You _should_ care what other people think about you. Perception is reality.
 Get over it.
 --!>
 
-
+Довольно удобно притвориться идеалистом и делать вид, что вас не волнует то, что другие 
+люди о вас думают. Но, это просто игра. Вы не можете позволить себе в это поверить. 
+Вы должны заботиться о том, что другие люди думают о вас. Восприятие – это реальность. 
+Смиритесь с этим.
 
 <!--
 You probably know the old clichéd philosophical question, “If a tree falls in 
@@ -19,7 +24,9 @@ the forest but nobody is there to hear it fall, did it make a sound?” The
 correct answer to the question is, “Who cares?”
 --!>
 
-
+Вы, наверняка, знаете старый избитый философский вопрос, "Если дерево падает в лесу, 
+но нет никого, кто бы мог это услышать, произвело ли оно звук?" Правильный ответ на 
+этот вопрос, "Кому какая разница?"
 
 <!--
 I mean, the fall probably made a sound. That’s not a very exciting answer on a 
@@ -27,14 +34,17 @@ metaphysical level, but it probably did. But, if nobody heard it fall, then the
 fact that it made a sound doesn’t really matter.
 --!>
 
-
+Я имею в виду, что падение, вероятно, и произвело звук. Это не очень захватывающий 
+ответ на метафизическом уровне, но оно, вероятно, произвело. В то же время, если никто 
+не слышал его падения, то тот факт, что он произвело звук, действительно не имеет значения.
 
 <!--
 The same goes for your work. If you kick ass and no one is there to see, did 
 you really kick ass? Who cares? No one.
 --!>
 
-
+То же касается и вашей работы. Если вы надрываетесь изо всех сил и никто этого не видит, 
+действительно ли вы так надрываетесь? Кого это заботит? Да никого.
 
 <!--
 In the subculture of Indian IT bureaucracy, I was amazed at how people just 
@@ -46,14 +56,20 @@ themselves into thinking that how other people perceived them was somehow
 subservient to the _truth_, whatever that was.
 --!>
 
-
+В субкультуре индийской ИТ-бюрократии, я был поражен тем, как люди просто не _узнали_ 
+эту простую истину. Почти все, с кем я там имел дело, не понимали, почему это должно 
+иметь значение, чтобы, например, их руководители знали, чем они занимаются. Если бы 
+вы знали, то вы делали бы работу получше, чем кое-как, а затем это должно было бы 
+отразиться на ваших обзорах производительности, рейтингах, и зарплате. Они обманывали 
+себя, полагая, что, то, как другие люди воспринимают их как-то соотносится с истиной, 
+как бы это ни было.
 
 <!--
 This truth thing...what is it? Who defines it? What is good and what is bad in 
 an absolute sense?
 --!>
 
-
+Эта истина... а что это? Кто определяет её? Что хорошо, а что плохо в абсолютном смысле?
 
 <!--
 The answer is that there is no absolute good or bad, at least not in terms
@@ -62,13 +78,17 @@ what makes a good song? What about a good painting? You might have your own
 definitions, but I doubt I would agree with them.  They’re subjective.
 --!>
 
-
+Ответ в том, что нет ничего абсолютно хорошего или плохого, как минимум не в 
+терминах оценки, кто лучше в творческой работе, среди работников умственного 
+труда. Как вы определите, что делает песню хорошей? А что насчет живописи? Вы можете 
+иметь свои собственные определения, но я сомневаюсь, что я соглашусь с ними. 
+Они субъективны.
 
 <!--
 *Performance appraisals are never objective.*
 --!>
 
-
+Оценка эффективности труда всегда не объективна.
 
 <!--
 Horrible risk-averse human resources departments in horrible risk-averse 
@@ -78,7 +98,11 @@ team members in India thought _they_ wanted to be measured this way.  That’s
 because they had never experienced it before.
 --!>
 
-
+Ужасные склонные к риску отделы кадров в ужасных склонных к риску компаний 
+вращают свои колёса в погоне за объективными измерениями людей, которых они нанимают. 
+Иногда они даже реализуют "объективные" оценочные системы. Все члены моей команды в 
+Индии думали, что они хотели бы быть измерены таким способом. Это только потому, 
+что они никогда не сталкивались с этим раньше.
 
 
 <!--
@@ -87,7 +111,9 @@ there is no way to objectively measure the quality of their work. Go ahead.
 Disagree. Now think about your argument for a while. See the holes?
 --!>
 
-
+Нет никакого способа, чтобы объективно оценить качество работника умственного труда, 
+и нет никакого способа, чтобы объективно оценить качество их работы. Вперед. 
+Не соглашайтесь. Теперь подумайте о ваших аргументах некоторое время. Видите дыры?
 
 <!--
 So, if the measure of your goodness at your company (or in the industry or the 
@@ -98,7 +124,11 @@ should continue to be on the payroll at all—is completely dependent on the
 perceptions of others.
 --!>
 
-
+Итак, если мера ваших ценных свойств в вашей компании (или в отрасли, или на рынке 
+труда, или где-то еще) субъективна, то что это значит? Это означает, что вы всегда 
+будете измеряться на основе восприятия вас кем-то другим. Ваши потенциальные 
+продвижения или повышения заработной платы, и даже решение о том, следует ли вообще 
+продолжать платить вам зарплату - полностью зависит от восприятия других.
 
 <!--
 Subjectivity, being based on _personal_ taste, implies that you can’t count
@@ -110,7 +140,13 @@ aggressive, while others prefer them to act like subordinates. You say “Poh ta
 toh”—I say “poh tah toh.”
 --!>
 
-
+Субъективность, будучи основанной на личном вкусе, означает, что вы не можете 
+рассчитывать на то, что любые два мнения будут одинаковы. На разных людей производят 
+впечатление разные факторы. Некоторым людям может нравиться жесткая структура, в то 
+время как другие предпочитают свободное, непринужденное творчество. Некоторые 
+предпочитают общаться по электронной почте, а другие лицом к лицу или по телефону. 
+Некоторым менеджерам может нравиться, чтобы их сотрудники были решительными, а другим, 
+чтобы они во всём подчинялись. Вы говорите, "Па ми дор" - Я говорю "По ми дор."
 
 <!--
 It doesn’t come down only to personal preference. People in different roles and 
