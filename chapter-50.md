@@ -63,8 +63,10 @@ value on food that they cannot force themselves to let go of it. They’ll
 grip that rice until either it comes out of the ground or they die trying
 to pull it out. It was typically the latter that happened first.
 
-Но обезьяны придают большое значение еде. На самом деле еда для них  
-настолько важна, что они не могут заставить себя отказаться от неё.
+Но обезьяны придают большое значение еде. На самом деле еда для них настолько
+важна, что они не могут заставить себя отказаться от неё. Они будут сжимать рис 
+до тех пор, пока не вытащат из-под земли или не умрут, пытаясь вытащить его. Обычно 
+второе наступало раньше.
 
 
 Pirisig tells this story to illustrate a concept he calls value rigidity. Value
