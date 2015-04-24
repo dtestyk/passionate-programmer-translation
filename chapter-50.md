@@ -1,7 +1,7 @@
 @vifsla перевод 
 
 ####The South Indian Monkey Trap
-####Лювля обезьян в Южной Индии
+####Ловля обезьян в Южной Индии
 
 In Zen and the Art of Motorcycle Maintenance [Pir00], Robert Pirsig tells
 an enlightening story about how people in South India used to catch
